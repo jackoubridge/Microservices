@@ -1,5 +1,5 @@
 # Microservices
-Shazam clone using microservices
+University coursework submission
 
 **Tracks**: Allows music tracks to be created, listed, read and deleted. Holds a database of all tracks
 <img width="934" alt="Screenshot 2023-06-02 at 07 28 43" src="https://github.com/jackoubridge/Microservices/assets/116497746/6b5c0c48-b4d0-4f60-a885-6596814ecc26">
